@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 title: Welcome to the club!
 description: Just the test case
